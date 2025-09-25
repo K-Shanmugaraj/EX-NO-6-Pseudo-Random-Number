@@ -44,7 +44,7 @@ int main()
 ~~~
 
 # OUTPUT:
-<img width="1431" height="732" alt="image" src="https://github.com/user-attachments/assets/608dcec1-eb02-4612-8189-cf7621bf0cae" />
+<img width="796" height="333" alt="Screenshot 2025-09-25 093641" src="https://github.com/user-attachments/assets/6b02370a-d53a-4cbe-a886-118fc9d73e88" />
 
 
 # RESULT:
